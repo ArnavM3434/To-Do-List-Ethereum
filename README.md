@@ -1,0 +1,1 @@
+Want experience with Ethereum smart contracts. Once I finish I will extend the use case for the block chain technology to something more advanced. Write now I am following this tutorial: https://www.youtube.com/watch?v=coQ5dg8wM2o
